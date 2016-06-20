@@ -1,3 +1,7 @@
+An attempt to add make a libnfc driver for the RC522 module.
+/!\ It's not working :(  I never finish this !
+
+
 *-
 * Free/Libre Near Field Communication (NFC) library
 * 
